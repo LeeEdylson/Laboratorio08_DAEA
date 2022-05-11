@@ -1,0 +1,7 @@
+C:\Users\Angel Rivero\source\repos\Laboratorio08\bin\Debug\Laboratorio08.exe.config
+C:\Users\Angel Rivero\source\repos\Laboratorio08\bin\Debug\Laboratorio08.exe
+C:\Users\Angel Rivero\source\repos\Laboratorio08\bin\Debug\Laboratorio08.pdb
+C:\Users\Angel Rivero\source\repos\Laboratorio08\obj\Debug\Laboratorio08.csproj.AssemblyReference.cache
+C:\Users\Angel Rivero\source\repos\Laboratorio08\obj\Debug\Laboratorio08.csproj.CoreCompileInputs.cache
+C:\Users\Angel Rivero\source\repos\Laboratorio08\obj\Debug\Laboratorio08.exe
+C:\Users\Angel Rivero\source\repos\Laboratorio08\obj\Debug\Laboratorio08.pdb
